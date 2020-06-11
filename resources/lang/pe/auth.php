@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'agree' => 'Acepto los términos',
+    'already_member' => 'Ya tengo membresiap',
+    'email' => 'Dirección de correo electrónico',
+    'failure' => 'Estas credenciales no coinciden con nuestros registros.',
+    'forgotten_password' => 'Olvidé mi contraseña',
+    'login' => 'Iniciar sesión',
+    'login_facebook' => 'Iniciar sesión con Facebook',
+    'login_google' => 'Iniciar sesión con Google+',
+    'login_title' => 'Inicie sesión para comenzar su sesión',
+    'login_twitter' => 'Iniciar sesión usando Twitter',
+    'logout' => 'Cerrar sesión',
+    'name' => 'Nombre completo',
+    'password' => 'Contraseña',
+    'password_confirmation' => 'Confirme su contraseña',
+    'register' => 'Iniciar sesión',
+    'register_new_member' => 'Registrar una nueva membresía',
+    'remember_me' => 'Recordarme',
+    'remember_password' => 'Recuerdo mi contraseña volver al inicio de sesión',
+    'reset_password' => 'Restablecer',
+    'reset_password_title' => 'Ingrese su nueva contraseña',
+    'reset_title' => 'Correo electrónico para restablecer contraseña',
+    'send_password' => 'Enviar enlace de restablecimiento de contraseña',
+    'throttle' => 'Demasiados intentos de inicio de sesión. Inténtalo de nuevo en :seconds seconds. ',
+];
